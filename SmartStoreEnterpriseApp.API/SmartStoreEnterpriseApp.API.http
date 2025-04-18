@@ -1,0 +1,6 @@
+@SmartStoreEnterpriseApp.API_HostAddress = http://localhost:5182
+
+GET {{SmartStoreEnterpriseApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
